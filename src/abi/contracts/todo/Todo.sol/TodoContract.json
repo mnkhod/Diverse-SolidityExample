@@ -1,0 +1,11 @@
+[
+  "constructor()",
+  "error NotOwner(address,address)",
+  "error SameOwner(address,address)",
+  "function createTodo(string)",
+  "function id() view returns (uint256)",
+  "function owner() view returns (address)",
+  "function setOwner(address)",
+  "function todos(uint256) view returns (string)",
+  "function todosLength() view returns (uint256)"
+]
